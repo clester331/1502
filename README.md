@@ -1,2 +1,3 @@
-# 1502
-Class Notes for CS1502 (Fall 2023)
+# CS1502 (Fall 2023)
+
+## Lecture 1 - 28 August 2023
